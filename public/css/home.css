@@ -1,8 +1,8 @@
 .home{
     background-image: url('/images/emilia-home.jpg');
-    background-size: 70%; /*define el tamaño de la imagen*/
+    background-size: 70%; /* tamaño de la imagen*/
     background-repeat: no-repeat; /*como la imagen es ms chica se repite, por ende de esta forma saco la repeticion*/
-    background-position: right -75px; /*Cambia la posicion de la imagen*/
+    background-position: right -75px; /*Cambia la posicion*/
 }
 .home header{
 margin-left: 40px; /*margenes left(izquierdo)*/

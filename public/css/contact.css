@@ -1,0 +1,16 @@
+.contact header nav li{
+    line-height: 30px;
+}
+.contact header nav ul a{
+    text-transform: uppercase;
+    color: gray;
+
+} 
+
+.contact p{
+    font-weight: 400;
+}
+
+.contact h4{
+    color: var(--colorVerdeOscuro);
+}
